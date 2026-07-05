@@ -17,13 +17,13 @@ entity_encoding:
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 assets:
   parts:
-  - {seq: 0, filename: KR1h0008_000.yaml, hash: 'sha256:f41dbea5665baf1493d4713302d81d3ad26c2a59e6906a58ddfae373afb4b6e0'}
-  - {seq: 1, filename: KR1h0008_001.yaml, hash: 'sha256:b6d3cc1d8b0e85035181e754c2c73f23883a337303d34556df330a76aed37436'}
-  - {seq: 2, filename: KR1h0008_002.yaml, hash: 'sha256:1d732cb893921a95e713153572aa474ce7bd8fe36a34bc1f57a6843c9054f2b3'}
+  - {seq: 0, filename: KR1h0008_000.yaml, hash: 'sha256:1f48a1f6667bbe868d66e0027cd9fecd369322b3c0710fceaee3860820f674c3'}
+  - {seq: 1, filename: KR1h0008_001.yaml, hash: 'sha256:bd8306ad9ea3c7bf5c4533405b0264b930f1c3ff801eb34882885e38f3eb23dc'}
+  - {seq: 2, filename: KR1h0008_002.yaml, hash: 'sha256:4b90be21da2216155e62ec8224e0b05c730892cfc5c278a5039f432aed984a46'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1h0008_000.markers.yaml, hash: 'sha256:a065d1c8854b50e72ef18e398577cfe8ddb413158b1aab7299f7ce65d58c623b'}
-  - {seq: 1, role: markers, filename: assets/KR1h0008_001.markers.yaml, hash: 'sha256:c9b57c2c472f77ef7ab2c649f0c56ae75d303f575811a0764884c0622c36d446'}
-  - {seq: 2, role: markers, filename: assets/KR1h0008_002.markers.yaml, hash: 'sha256:b640d4541970ed8aa383329d58ecfe80343696460bf06d2d0a33ee3c019147d3'}
+  - {seq: 0, role: markers, filename: assets/KR1h0008_000.markers.yaml, hash: 'sha256:0d0b4fa954ac4b0d9ea035f1788bcec916c37c432b5bd104da7ae1e5acc00570'}
+  - {seq: 1, role: markers, filename: assets/KR1h0008_001.markers.yaml, hash: 'sha256:90894e1eb53e1716ed50d901f319bcedf6cbcb5289e5495275905a1592225655'}
+  - {seq: 2, role: markers, filename: assets/KR1h0008_002.markers.yaml, hash: 'sha256:bd134c2da8cd468fc55ee5ee70d69b0553027c53450a51057f765a39d8d683c2'}
 table_of_contents:
 - ref:
     seq: 0
@@ -55,9 +55,6 @@ table_of_contents:
   label: juan 002
   type: section
   level: 1
-hash: sha256:09fed87814bcf8ffe189f902cffb85e148144f1905dc365bcff645527724f41d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:bfee0c8a1efccf01e97897429bfdc3101115e02b33b5a555507a8a5693474ab0
 editions:
 - short: WYG
